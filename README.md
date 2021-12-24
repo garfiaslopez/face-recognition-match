@@ -1,5 +1,5 @@
 # face-recognition-match
-Train a ML Model to detect faces. (Image classifier)
+Train a CoreML Model to detect faces in IOS. (Image classifier)
 
 # Requeriments
 
