@@ -10,4 +10,4 @@ def data_processing(root_dir: str):
   # data.crop_random(probability=0.5, percentage_area=0.9, randomise_percentage_area=True)
   data.sample(500)
 
-data_processing('photos')
+data_processing('photos/single-augmented')
